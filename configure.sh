@@ -2,7 +2,7 @@
 
 # Download and install xRay
 mkdir /tmp/xray
-curl -L -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip https://github.com/zlily521/myxy/blob/main/Xray-linux-64.zip
+curl -L -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip https://github.com/zlily521/myxy/raw/main/Xray-linux-64.zip
 unzip /tmp/xray/xray.zip -d /tmp/xray
 install -m 755 /tmp/xray/xray /usr/local/bin/xray
 
