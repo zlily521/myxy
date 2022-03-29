@@ -1,0 +1,13 @@
+{
+    "name": "myxy",
+    "description": "Deploy myxy on Heroku.",
+    "keywords": ["myxy"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "190190f5-d88c-48da-85b7-797bc3d9399f"
+        }
+    },
+    "repository": "https://github.com/",
+    "stack": "container"
+}
